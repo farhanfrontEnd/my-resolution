@@ -1,0 +1,11 @@
+What have i finished learn?
+1. HTML
+2. CSS
+3. JS Fundamental
+4. JS ES6
+5. JS DOM
+
+Things i should do to become a FrontEnd Developer in 2023
+- Learn Github & Git
+- Learn Node js & NPM
+- Learn React js
