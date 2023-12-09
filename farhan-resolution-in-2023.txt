@@ -9,3 +9,6 @@ Things i should do to become a FrontEnd Developer in 2023
 - Learn Github & Git
 - Learn Node js & NPM
 - Learn React js
+- Learn FlexBox
+- Learn Grid
+
